@@ -1,0 +1,19 @@
+Mes;Nombre;ID;Fecha de ingreso;Sueldo; División; Área; Subárea; ID líder; Nivel jeráquico
+4-2020; Juan Pérez; 111111111; 01/04/2020; 1200000;Ventas; Marketing; Digital;;Manager
+4-2020; Rodrigo Soto; 22222222; 01/10/2020; 900000;Ventas; Marketing; Editorial;111111111;Supervisor
+4-2020; Jaime González; 33333333; 11/04/2021; 800000;Ventas; Regional; Regional;22222222;Profesional
+4-2020; Pedro Suárez; 444444444; 15/10/2021; 500000A;Operaciones; Soporte; Clientes;33333333;Profesional
+4-2020; Jorge Jiménez; 55555555; 15/01/2020; 1000000;Operaciones; Soporte; Clientes;33333333;Coordinador
+5-2020;; 111111111; 01/04/2020; 1200000;Ventas; Marketing; Digital;;Manager
+5-2020; Rodrigo Soto; 22222222; 01/10/2020; 900000;Ventas; Marketing; Editorial;111111111;Supervisor
+5-2020; Jaime González; 33333333; 60/04/2021; 800000;Ventas; Regional; Regional;22222222;Profesional
+
+5-2020; Pedro Suárez; 444444444; 15/10/2021; 500000;Operaciones; Soporte; Clientes;33333333;Profesional
+5-2020; Jorge Jiménez; 55555555; 15/01/2020; 1000000;Operaciones; Soporte; Clientes;33333333;Coordinador
+6-2020; Juan Pérez; 111111111; 01/04/2020; 1200000;Ventas; Marketing; Digital;;Manager
+6-2020; Juan Pérez; 111111111;
+6-2020; Rodrigo Soto; 22222222; 01/10/2020; 900000;Ventas; Marketing; Editorial;111111111;Supervisor
+6-2020; Jaime González; 33333333; 11/04/2021; 900000;Ventas; Regional; Regional;111111111;Profesional
+6-2020; Pedro Suárez; 444444444; 15/10/2021; 500000;Operaciones; Soporte; Clientes;33333333;Profesional
+6-2020; Jorge Jiménez; 55555555; 15/01/88888; 1000000;Operaciones; Soporte; Clientes;33333333;Coordinador
+
